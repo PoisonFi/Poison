@@ -21,6 +21,6 @@ Poison Protocol is a Magic Wand that lets you create Multi Chain Synthetic Potio
 
 ## Contact
 
-Discord - [Poison](https://discord.com/invite/5KE54JwyTs)
+Discord - [Poison](https://discord.gg/PQqf7vqh)
 
 Twitter: [Poison](https://twitter.com/PoisonFinance)
